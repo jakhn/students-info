@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border: 3px solid black;
+    text-align: center;
+}
+tr,th,td{
+    border: 3px solid black;
+}
+body{
+    display: block;
+}
+td,th{
+    font-size: 20px;
+}
+td{
+    font-style: italic;
+}
+th{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.excellent{
+    background-color: rgb(153, 255, 0); 
+}
+.good{
+    background-color: yellow;
+}
+.fail{
+    background-color: rgb(255, 94, 0);
+}
+.number{
+    background-color: rgb(255, 255, 255);
+    
+}
+.fio{
+    background-color: rgb(120, 221, 255);
+}
+
+h1{
+    margin-left: 36rem;
+    margin-top: 5rem; 
+}
+h3{
+    margin-left: 1rem;
+}
